@@ -1,0 +1,16 @@
+.block {
+  height: 392px;
+  border: 1px solid black;
+  border-top: none;
+  border-right: none;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.message {
+  font-size: 18px;
+  line-height: 28px;
+  font-style: italic;
+}

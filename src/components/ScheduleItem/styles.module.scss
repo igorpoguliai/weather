@@ -1,0 +1,29 @@
+.schedule {
+  border: 1px solid black;
+  margin: 7px 0 9px;
+  padding: 6px 6px 13px 10px;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.time {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 33px;
+}
+
+.description {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  img {
+    height: 31px;
+  }
+}
